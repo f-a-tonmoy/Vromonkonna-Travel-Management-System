@@ -99,8 +99,8 @@ The system is designed to address the specific challenges faced by women travele
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/f-a-tonmoy/vromonkonna.git
-   cd vromonkonna
+   git clone https://github.com/f-a-tonmoy/Vromonkonna-Travel-Management-System.git
+   cd Vromonkonna-Travel-Management-System
    ```
 
 2. Install dependencies:
